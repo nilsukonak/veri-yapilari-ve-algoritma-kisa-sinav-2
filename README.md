@@ -1,5 +1,6 @@
 # veri-yapilari-ve-algoritma-kisa-sinav-2 soru2
 soru2: Diziyi toplamı eşit alt kümelere bölme. Açıklama  : Sadece pozitif tamsayılar içeren boş olmayan bir tamsayı dizisi verildiğinde, dizinin her iki alt kümedeki elemanların toplamı eşit olacak şekilde iki alt kümeye bölünüp bölünemeyeceğini bulun.
+
 cevap:Bir örnek üzerinden açıklayalım
 böyle bir dizimiz olsun 
 dizi = [2, 5, 1, 3, 4, 7, 8]
